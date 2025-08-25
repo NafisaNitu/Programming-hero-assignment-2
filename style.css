@@ -11,3 +11,13 @@ body {
 .font-inter{
     font-family: "Inter", sans-serif!important;
 }
+
+.join-bg {
+    padding: 200px 200px;
+    background-image: url("images/news-letter-bg.png");
+     background-size: cover; 
+     background-repeat: no-repeat; 
+     height: 550px;
+     width: auto;
+     background-position: center;
+}
