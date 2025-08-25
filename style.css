@@ -1,0 +1,13 @@
+.container {
+    width: 1140px;        
+    margin: 0 auto;  
+    padding: 0 15px;   
+}
+
+body {
+    font-family: "Noto Serif", serif!important;
+    font-weight: <weight>!important;
+}
+.font-inter{
+    font-family: "Inter", sans-serif!important;
+}
