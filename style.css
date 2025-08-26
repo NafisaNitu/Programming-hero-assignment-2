@@ -13,11 +13,10 @@ body {
 }
 
 .join-bg {
-    padding: 200px 200px;
+    padding: 200px 0px;
     background-image: url("images/news-letter-bg.png");
      background-size: cover; 
      background-repeat: no-repeat; 
      height: 550px;
-     width: auto;
      background-position: center;
 }
